@@ -4,7 +4,7 @@ Flash AM32 onto the GEPRC TAKER H65_8S_32Bit 65A 4IN1 ESC (the one in the TAKER 
 
 The official `AM32_GEPRC_4IN1_F421` target doesn't match this board's actual pin routing. This repo contains a tested, working flash workflow plus the hex files you need, while a fix gets merged upstream.
 
-See the [upstream issue](https://github.com/am32-firmware/AM32/issues/<NUM>) for the diagnosis.
+See the [upstream issue](https://github.com/am32-firmware/AM32/issues/367) for the diagnosis.
 
 ## What you need
 
