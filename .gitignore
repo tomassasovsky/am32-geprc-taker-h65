@@ -1,0 +1,4 @@
+upstream/
+logs/
+*.log
+.DS_Store
